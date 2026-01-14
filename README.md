@@ -7,16 +7,20 @@
 - Location: Leskovac, Serbia
 - Email: nikolicmiroslav78@yahoo.com
 - LinkedIn: https://www.linkedin.com/in/mm-soft/
-- Website: https://www.mm-soft.rs/
+- Website: https://www.mm-soft.rs/  -IN DEVELOPMENT
 
 🔹Skills and Competencies:
 
   - Programming Languages and Technologies:
-  - HTML, CSS, JavaScript
+  - JavaScript + ThreeJS
   - Java (Swing, Spring Boot, FX)
+  - HTML, CSS (Bootstrap)
   - Git/GitHub
   - SQLite, MySQL
   - JDBC
+  - Blender
+  - Canva
+  - Figma
     
 🔹Software Development:
 
