@@ -26,7 +26,7 @@
   - Canva
   - Blender
   - CapCut
-  - Power Point
+  - PowerPoint
   
 🔹Projects
 
